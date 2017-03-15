@@ -1,23 +1,23 @@
 export const questions = [
 	{
-		"question": "Which of the following is true about reflows and repaints?",
+		"question": "CEO of PGF",
 		"answers": [
-			"They're the same thing.",
-			"Repaints (or redraws) occur when elements change their visual styles but not layout.",
-			"Reflows compute layout, are more performance critical, and occur when elements are inserted, removed, moved, animated, etc.",
-			"The previous two answers are correct."
+			"Joshua Kelly",
+			"Manjit Wolstenholme",
+			"Peter Crook",
+			"Andrew Fisher"
 		],
 		"correct": 3
 	},
 	{
-		"question": "What are the three types of JavaScript errors?",
+		"question": "Customer Manager Application is used by ?",
 		"answers": [
-			"Parse Errors, Syntax Errors and Runtime Errors.",
-			"Loading Errors, Runtime Errors and Logic Errors.",
-			"Syntax Errors, Logic Errors and Loading Errors.",
-			"Bad Errors, Very Bad Errors, and Fatal Errors."
+			"Agents",
+			"Managers",
+			"Consumers",
+			"Agents/Managers"
 		],
-		"correct": 1
+		"correct": 2
 	},
 	{
 		"question": "What is a closure?",
